@@ -1,0 +1,9 @@
+#!/bin/sh
+
+product_name=`dmidecode -s system-product-name`
+
+case "${product_name}" in
+    "HP EliteBook 840 G1")
+	cp /etc/X11/xorg.conf.blinux/50-device-840.conf /etc/X11/xorg.conf.d/50-device.conf
+	;;
+esac
