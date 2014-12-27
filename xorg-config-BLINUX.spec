@@ -25,7 +25,7 @@
 
 Name:		xorg-config-BLINUX
 Version:        0.1
-Release:        1
+Release:        2
 Summary:        Xorg Configuration
 License:        BSD-2-Clause
 Group:          System Environment/X11
