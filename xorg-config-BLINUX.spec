@@ -38,6 +38,7 @@ BuildArch:      noarch
 
 Packager:       Emmanuel Vadot <elbarto@bocal.org>
 Url:            http://www.blinux.fr
+Vendor:		Blinux
 
 %description
 Xorg configuration files for BLINUX
