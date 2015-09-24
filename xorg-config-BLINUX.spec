@@ -1,5 +1,5 @@
 #-
-# Copyright 2014 Emmanuel Vadot <elbarto@bocal.org>
+# Copyright 2014-2015 Emmanuel Vadot <elbarto@bocal.org>
 # All rights reserved
 #
 # Redistribution and use in source and binary forms, with or without
@@ -24,8 +24,8 @@
 # POSSIBILITY OF SUCH DAMAGE.
 
 Name:		xorg-config-BLINUX
-Version:        0.1
-Release:        2
+Version:        0.2
+Release:        1
 Summary:        Xorg Configuration
 License:        BSD-2-Clause
 Group:          System Environment/X11
